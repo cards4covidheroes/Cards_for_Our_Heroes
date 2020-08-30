@@ -303,14 +303,24 @@ header a:hover{
 }
 
 .contact img{
-    width: max(6vw, 40px);
+    width: max(3vw, 25px);
 }
 
 .contact{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: space-evenly;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.contact a{
+    padding-right: 2rem;
+}
+
+footer{
+    background-color: darkslategrey;
 }
 
 .bighead{
@@ -368,6 +378,7 @@ header a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 2rem;
 }
 
 .audio{
@@ -423,6 +434,8 @@ header a:hover{
 .titles a:hover{
     color: #F14830;
 }
+
+
 
 .content_gal{color:#777;font:12px/1.4 "helvetica neue",arial,sans-serif;max-width:820px;margin:20px auto;}
 .galleria{ height: 432px; max-width:820px }
