@@ -404,6 +404,21 @@ header a:hover{
     text-align: center;
 }
 
+.titles{
+    font-size: max(2vw, 20px);
+    text-align: center;
+    font-family: 'Nanum Myeongjo';
+    font-weight: bold;
+}
+
+.titles a{
+    color:#5224ad;
+}
+
+.titles a:hover{
+    color: #F14830;
+}
+
 .content_gal{color:#777;font:12px/1.4 "helvetica neue",arial,sans-serif;max-width:820px;margin:20px auto;}
 .galleria{ height: 432px; max-width:820px }
 
