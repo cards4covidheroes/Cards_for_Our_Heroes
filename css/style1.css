@@ -404,6 +404,11 @@ header a:hover{
     text-align: center;
 }
 
+.addresslist h3{
+    color: #ff0066;
+    font-size: max(1.5vw, 15px);
+}
+
 .titles{
     font-size: max(2vw, 20px);
     text-align: center;
