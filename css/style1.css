@@ -138,7 +138,7 @@ header a:hover{
     
 .showcase{
     min-height: 400px;
-    background: url('../images/pink.png') no-repeat 0 -450px;
+/*     background: url('../images/pink.png') no-repeat 0 -450px; */
     text-align: center;
     color: black;
 }
